@@ -4,8 +4,3 @@
 ## Team Members
 - Riad Alasadi
 
-## Lab Question Answers
-
-Answer for Question 1: 
-
-...
